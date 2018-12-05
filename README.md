@@ -1,5 +1,4 @@
 # Project 0
-
 Web Programming with Python and JavaScript
 
 This is a sample website that satisfies the following conditions:
