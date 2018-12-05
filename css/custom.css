@@ -15,6 +15,18 @@
   box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
+.column-1 {
+  width: 20%;
+}
+
+.column-2 {
+  width: 50%;
+}
+
+.column-3 {
+  width: 10%;
+}
+
 /* Elements */
 html {
   /* font-family: $font; */
@@ -29,6 +41,10 @@ h1 {
   /* font-family: $font; */
   text-align: center;
   font-size: 2.5rem;
+}
+
+h2 {
+  margin-left: 10px;
 }
 
 h1, h2, h3, h4, h5, h6 {
